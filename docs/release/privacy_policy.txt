@@ -1,0 +1,63 @@
+PRIVACY POLICY – TapSquare
+
+Last Updated: February 26, 2026
+
+1. INTRODUCTION
+
+TapSquare ("the App") respects your privacy. This Privacy Policy explains how we collect, use, and protect your information when you use the App.
+
+2. INFORMATION WE COLLECT
+
+The App does NOT collect any personal information. Specifically, we do NOT collect:
+- Your name, email address, or contact information
+- Your location data
+- Your device identifiers or IMEI number
+- Your browsing history or activity logs
+- Your game play data (all data remains local on your device)
+- Your IP address or network information
+
+3. LOCAL DATA STORAGE
+
+All game data (scores, preferences, settings) is stored locally on your device using Hive, a local database. This data is not synced to any cloud service, shared with third parties, or sent to external servers.
+
+You may reset or clear all data at any time through the app's Settings screen.
+
+4. PERMISSIONS
+
+The App requests no sensitive permissions beyond standard app functionality required to display the user interface and play audio.
+
+5. THIRD-PARTY SERVICES
+
+The App does NOT use:
+- Analytics services (Google Analytics, Firebase Analytics, etc.)
+- Advertising networks or ad networks
+- Crash reporting services
+- Remote configuration services
+- Cloud storage or synchronization services
+
+6. CHILDREN'S PRIVACY
+
+The App is designed for all ages. Since we do not collect any personal information, children's privacy is fully protected.
+
+7. DATA SECURITY
+
+Your local data is stored securely on your device. You maintain full control and can delete the App and all associated data at any time.
+
+8. CHANGES TO THIS POLICY
+
+We may update this Privacy Policy. Changes will be effective immediately upon posting to the App. Your continued use signifies acceptance.
+
+9. CONTACT US
+
+If you have questions about this Privacy Policy, please contact us at:
+support@tapsquare.app
+
+10. YOUR RIGHTS
+
+You have the right to:
+- Knowledge of what data is collected (none)
+- Access to your data (local only)
+- Delete your data (via Settings > Clear All Data)
+- Know that we do not sell or share your data
+
+SUMMARY: We collect no personal data. All game data stays on your device. Your privacy is our priority.

@@ -1,0 +1,55 @@
+PLAY STORE LISTING – TapSquare
+
+---
+SHORT DESCRIPTION (80 characters max):
+Test your reaction speed in this fast-paced arcade tapping game.
+
+---
+FULL DESCRIPTION:
+
+TapSquare is a simple, addictive arcade game designed to test your reflexes. Tap the blue squares as they appear before they disappear. The longer you last, the faster and smaller the squares become.
+
+KEY FEATURES:
+- Fast-paced reaction gameplay
+- Progressive difficulty that increases with your score
+- Track your personal best high score
+- Smooth animations and polished interface
+- Customizable sound and vibration settings
+- Completely free to play, no ads
+- Works offline
+- Privacy-first: no data collection
+
+HOW TO PLAY:
+1. Tap "Start Game" to begin a 30-second round
+2. Tap the blue squares as they appear
+3. Each successful tap increases your score
+4. Challenge yourself to beat your high score
+
+GAME MODES:
+- Timed Mode: Play for 30 seconds and rack up as many taps as possible
+- Progressive Difficulty: Squares appear faster and shrink as you score higher
+
+SETTINGS:
+- Toggle sound effects on/off
+- Toggle haptic feedback/vibration on/off
+- View your high score
+- Reset your high score anytime
+- View app information and privacy policy
+
+PRIVACY & SAFETY:
+- No personal data collection whatsoever
+- No account required
+- All game data stored locally on your device
+- No analytics or tracking
+- Safe for all ages
+
+PERMISSIONS:
+- Internet: Used only for rating and feedback features
+- Vibration: For haptic feedback (optional, can be disabled)
+- Audio: For sound effects (optional, can be disabled)
+
+TapSquare is a lightweight, instant gratification game perfect for quick gaming sessions during breaks. Challenge yourself and see how high you can score!
+
+---
+CATEGORY: Games > Arcade
+CONTENT RATING: Everyone
